@@ -1,0 +1,59 @@
+# ====================
+# Python / FastAPI
+# ====================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# ====================
+# Node / React
+# ====================
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+*.tgz
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
