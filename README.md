@@ -1,4 +1,4 @@
-# Redis Cache Demo
+# Redis Cache
 
 This repository demonstrates caching strategies using Redis with both Python (FastAPI) and JavaScript (Express) servers.
 
